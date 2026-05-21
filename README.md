@@ -1,8 +1,8 @@
-# Producto Integrador del Aprendizaje (PIA)
-## Diseño Experimental
+Producto Integrador del Aprendizaje (PIA)
+Diseño Experimental
 
-## Universidad Autónoma de Nuevo León
-## Facultad de Ciencias Forestales
+Universidad Autónoma de Nuevo León
+Facultad de Ciencias Forestales
 
 **Alumno:** Laura Camila Rivera Zavala   
 **Matrícula:** 2142208  
@@ -33,7 +33,3 @@ Este repositorio contiene las actividades, prácticas, laboratorios y evidencias
 - R
 - RStudio
 - GitHub
-
-# Evidencia de contribuciones
-
-En la carpeta Evidencias se incluye la captura de contribuciones realizadas en GitHub durante el desarrollo del curso.
